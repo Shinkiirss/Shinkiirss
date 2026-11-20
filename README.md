@@ -1,11 +1,12 @@
-<div align="center">
-  <!-- Тонкая обрезанная картинка-баннер сверху -->
-  <img src="https://avatars.mds.yandex.net/i?id=e933e713c82ca2315263b85cf8aef65b_l-10701951-images-thumbs&n=13" width="100%" height="200px" style="object-fit: cover; object-position: center 30%; border-radius: 10px;" alt="Banner" />
-</div>
+
 
 <br />
 
 <h1 align="center" style="color: #ffffff;">Hi, I'm Shinkii</h1>
+<div align="center">
+  
+  <img src="https://avatars.mds.yandex.net/i?id=e933e713c82ca2315263b85cf8aef65b_l-10701951-images-thumbs&n=13" width="100%" height="200px" style="object-fit: cover; object-position: center 30%; border-radius: 10px;" alt="Banner" />
+</div>
 <h3 align="center" style="color: #c9d1d9;">Academia Top student</h3>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px; color: #ffffff;">
@@ -37,11 +38,7 @@
 
 <!-- Ваша гифка с персонажем внизу -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4c2kzYXFpNmx5NDUxcnVmYnBlOHh3cGcyOTlibXBqamoxeG5ueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mk8jpXI3d53J6fFJBr/giphy.gif" width="400" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4c2kzYXFpNmx5NDUxcnVmYnBlOHh3cGcyOTlibXBqamoxeG5ueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mk8jpXI3d53J6fFJBr/giphy.gif" width="100%" height="200px" style="object-fit: cover; object-position: center 30%; border-radius: 10px;" alt="Banner" />
 </div>
 
-<br /><br />
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd4c2kzYXFpNmx5NDUxcnVmYnBlOHh3cGcyOTlibXBqamoxeG5ueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mk8jpXI3d53J6fFJBr/giphy.gif" width="400" alt="Coding GIF" />
-</div>
+<br />
