@@ -1,3 +1,4 @@
+<img src="https://avatars.mds.yandex.net/i?id=e933e713c82ca2315263b85cf8aef65b_l-10701951-images-thumbs&n=13" width="100%" alt="Banner" />
 <h1 align="center">Hi, I'm Shinkii</h1>
 <h3 align="center">Academia Top student</h3>
 
